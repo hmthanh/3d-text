@@ -1,2 +1,2 @@
-# 3d-text
-3d-text
+# 3D Text
+
